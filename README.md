@@ -1,4 +1,5 @@
-# 💫 About Me:
+<img src="https://raw.githubusercontent.com/NoteXD777/NoteXD777/main/Screenshot/eyes.jpg" width="1000" height="80">
+
 ## Hello, I'm Edo from Indonesia! 👋  
 Just wanna be: [🎮 Game Developer & 🎨 3D Artist](#) *(Still learning!)*
 

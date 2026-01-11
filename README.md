@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/NoteXD777/NoteXD777/main/Screenshot/eyes.jpg" width="1000" height="80">
 
-## Hello, I'm Edo from Indonesia! 👋  
+## Hello, I'm Edo(maybe) from Region Sawit 👋
 Just wanna be: [🎮 Game Developer & 🎨 3D Artist](#) *(Still learning!)*
 ## Social Media & Game Platforms
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@GabutGames_1)
@@ -24,7 +24,7 @@ I use the **Unity Engine** to learn game development!
 
 ---
 
-## Check out my game on Itch.io: <a href="https://gabut-games.itch.io/the-grave-cleaners"> The Grave Cleaners </a>
+## Check out my nguwawur game on Itch.io: <a href="https://gabut-games.itch.io/the-grave-cleaners"> The Grave Cleaners </a>
 <img src="https://raw.githubusercontent.com/NoteXD777/NoteXD777/main/Screenshot/Tgc.png" width="500">
 <a href="https://gabut-games.itch.io/the-grave-cleaners">
   <img src="https://static.itch.io/images/badge.svg" alt="Itch.io" width="250"/>
@@ -36,5 +36,5 @@ I use the **Unity Engine** to learn game development!
 
 
 
-## <p align="center" ><font size="10"> Thanks For Visiting😉 </font></p>
+## <p align="center" ><font size="10"> Huh🤨 </font></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

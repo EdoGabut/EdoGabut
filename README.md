@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/NoteXD777/NoteXD777/main/Screenshot/eyes.jpg" width="1000" height="80">
 
-## Hello, I'm Edo(maybe) from Region Sawit 👋
+## Hello, I'm Edo(maybe) From Indonesia👋
 Just wanna be: [🎮 Game Developer & 🎨 3D Artist](#) *(Still learning!)*
 ## Social Media & Game Platforms
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@GabutGames_1)
